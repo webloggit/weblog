@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'hafs-uthmanic-script-regular-ii';
+  font-display: swap;
+  src: local('hafs-uthmanic-script-regular-ii'),
+       url('hafs uthmanic script regular ii.ttf') format('truetype'),
+       url('hafs uthmanic script regular ii.woff') format('woff'),
+       url('hafs uthmanic script regular ii.woff2') format('woff2');
+  /* Fallback font stack */
+  /* font-family: 'hafs-uthmanic-script-regular-ii', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif; */
+}
