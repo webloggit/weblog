@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'tajawal-extrabold';
+  font-display: swap;
+  src: local('tajawal-extrabold'),
+       url('tajawal extrabold.ttf') format('truetype'),
+       url('tajawal extrabold.woff') format('woff'),
+       url('tajawal extrabold.woff2') format('woff2');
+  /* Fallback font stack */
+  /* font-family: 'tajawal-extrabold', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif; */
+}
