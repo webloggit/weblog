@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'amiri-quran';
+  font-display: swap;
+  src: local('amiri-quran'),
+       url('amiri quran.ttf') format('truetype'),
+       url('amiri quran.woff') format('woff'),
+       url('amiri quran.woff2') format('woff2');
+  /* Fallback font stack */
+  /* font-family: 'amiri-quran', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif; */
+}
