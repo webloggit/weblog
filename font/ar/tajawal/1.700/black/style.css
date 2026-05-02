@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'tajawal-black';
+  font-display: swap;
+  src: local('tajawal-black'),
+       url('tajawal black.ttf') format('truetype'),
+       url('tajawal black.woff') format('woff'),
+       url('tajawal black.woff2') format('woff2');
+  /* Fallback font stack */
+  /* font-family: 'tajawal-black', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif; */
+}
